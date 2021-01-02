@@ -1,0 +1,36 @@
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+Conclusion 1: The two conclusions drawn on the outcomes launch dates is that there was a slight peak in all events launched around the summer. May play directors worked with the launch date around the summer. Summertime is a very uplifting season for people as people are more relaxed and enjoy going out and watching plays. In contrast, fewer plays were scheduled to launch around the winter time.
+
+Conclusion 2: All plays started saw a launch and an outcome (success or failure). None of the plays were cancelled. Which is very promising and shows hope for the future of theatre.
+
+- What can you conclude about the Outcomes based on Goals?
+
+This is a very interesting observation for me. I conclude that the lower the goal and the budget, the higher the chances for success. Which is very contradictory to the logic “Higher the risk Higher the income”. 
+
+
+- What are some limitations of this dataset?
+
+Initially I had some difficulty with the data set, I eventually got familiar and want to work with the dataset more and more.  
+
+- What are some other possible tables and/or graphs that we could create?
+
+Number of people interested in donation.
+More graphs based on category.
+Popular plays based on countries. 
